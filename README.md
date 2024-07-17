@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arindam Bhaumik, a software developer
-- 👀 I’m interested in software development specially in Spring Boot/Microservice/React JS platform
+- 👀 I’m interested in software development specially in Spring Boot/Microservice/Event Driven Architecture (Apache Kafka)/React JS platform
 - 🌱 I’m currently learning Fullstack application using React/Spring Boot
 - 📫 You can reach me at my email: ariishere@gmail.com
 
